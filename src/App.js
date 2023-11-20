@@ -19,7 +19,7 @@ function App() {
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href=""
             target="_blank"
             rel="noopener noreferrer"
           >
