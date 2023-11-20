@@ -9,12 +9,9 @@ function App() {
         <Weather defaultCity="Lagos" />
 
         <footer>
-          This project was coded by{" "}
-            Theresa Obuladike
-          {" "}
-          and is{" "}
+          This project was coded by Theresa Obuladike and is{" "}
           <a
-            href="https://github.com/wecodeschool/react-weather-app"
+            href="https://github.com/Theresa7777/my-weather"
             target="_blank"
             rel="noopener noreferrer"
           >
